@@ -1,0 +1,14 @@
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/bin/Debug/net7.0/FinalProject
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/bin/Debug/net7.0/FinalProject.deps.json
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/bin/Debug/net7.0/FinalProject.runtimeconfig.json
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/bin/Debug/net7.0/FinalProject.dll
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/bin/Debug/net7.0/FinalProject.pdb
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfoInputs.cache
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfo.cs
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.dll
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/refint/FinalProject.dll
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.pdb
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
+/Users/owenchamberlain/CSE 210 Programming with Class/cse210-projects/final/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
